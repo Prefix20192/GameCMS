@@ -7,7 +7,7 @@
 public Plugin myinfo = 
 {
     description = "GAMECMS профиль для css v34",
-    version     = "1.0.1.1",
+    version     = "1.0",
     author      = "Pr[E]fix | vk.com/cyxaruk1337",
     name        = "[GameCMS] Profile",
     url         = "http://vk.com/cyxaruk1337"
